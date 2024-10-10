@@ -1,0 +1,28 @@
+.card{
+    border: '1px solid #ddd';
+    padding: '20px';
+    width: '300px';
+    borderRadius: '8px';
+    boxShadow: '0 4px 8px rgba(0,0,0,0.1)';
+    overflow: hidden;
+},
+
+
+
+.image{
+    width: "100%";
+    border: "1px solid black";
+    borderRadius: "4px";
+    marginBottom: "10px";
+    height: '320px';
+    object-fit: cover;
+}
+.notInterestedButton{
+    marginTop: '10px';
+    backgroundColor: '#f44336';
+    color: 'white';
+    border: 'none';
+    padding: '10px 15px';
+    cursor: 'pointer';
+    borderRadius: '4px'
+}
